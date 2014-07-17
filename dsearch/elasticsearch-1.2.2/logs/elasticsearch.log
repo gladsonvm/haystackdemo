@@ -1,0 +1,11 @@
+[2014-07-17 19:01:49,632][INFO ][node                     ] [Star Stalker] version[1.2.2], pid[3463], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-17 19:01:49,633][INFO ][node                     ] [Star Stalker] initializing ...
+[2014-07-17 19:01:49,639][INFO ][plugins                  ] [Star Stalker] loaded [], sites []
+[2014-07-17 19:01:54,110][INFO ][node                     ] [Star Stalker] initialized
+[2014-07-17 19:01:54,111][INFO ][node                     ] [Star Stalker] starting ...
+[2014-07-17 19:01:54,326][INFO ][transport                ] [Star Stalker] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-17 19:01:57,388][INFO ][cluster.service          ] [Star Stalker] new_master [Star Stalker][t3r_N_UHTEeG3qbta5-szw][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-17 19:01:57,434][INFO ][discovery                ] [Star Stalker] elasticsearch/t3r_N_UHTEeG3qbta5-szw
+[2014-07-17 19:01:57,481][INFO ][http                     ] [Star Stalker] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-17 19:01:58,732][INFO ][gateway                  ] [Star Stalker] recovered [1] indices into cluster_state
+[2014-07-17 19:01:58,937][INFO ][node                     ] [Star Stalker] started

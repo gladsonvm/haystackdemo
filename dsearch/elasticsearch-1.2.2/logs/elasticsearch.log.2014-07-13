@@ -1,0 +1,79 @@
+[2014-07-13 00:49:51,476][INFO ][node                     ] [Joe Fixit] version[1.2.2], pid[4509], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-13 00:49:51,477][INFO ][node                     ] [Joe Fixit] initializing ...
+[2014-07-13 00:49:51,483][INFO ][plugins                  ] [Joe Fixit] loaded [], sites []
+[2014-07-13 00:49:54,775][INFO ][node                     ] [Joe Fixit] initialized
+[2014-07-13 00:49:54,775][INFO ][node                     ] [Joe Fixit] starting ...
+[2014-07-13 00:49:54,979][INFO ][transport                ] [Joe Fixit] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-13 00:49:58,064][INFO ][cluster.service          ] [Joe Fixit] new_master [Joe Fixit][V4Utzas2T5iwiDmIaL3fNw][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-13 00:49:58,108][INFO ][discovery                ] [Joe Fixit] elasticsearch/V4Utzas2T5iwiDmIaL3fNw
+[2014-07-13 00:49:58,137][INFO ][http                     ] [Joe Fixit] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-13 00:49:58,196][INFO ][gateway                  ] [Joe Fixit] recovered [0] indices into cluster_state
+[2014-07-13 00:49:58,197][INFO ][node                     ] [Joe Fixit] started
+[2014-07-13 01:01:00,585][INFO ][node                     ] [Joe Fixit] stopping ...
+[2014-07-13 01:01:00,631][INFO ][node                     ] [Joe Fixit] stopped
+[2014-07-13 01:01:00,632][INFO ][node                     ] [Joe Fixit] closing ...
+[2014-07-13 01:01:00,639][INFO ][node                     ] [Joe Fixit] closed
+[2014-07-13 01:01:26,331][INFO ][node                     ] [Madeline Joyce] version[1.2.2], pid[4759], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-13 01:01:26,332][INFO ][node                     ] [Madeline Joyce] initializing ...
+[2014-07-13 01:01:26,338][INFO ][plugins                  ] [Madeline Joyce] loaded [], sites []
+[2014-07-13 01:01:29,556][INFO ][node                     ] [Madeline Joyce] initialized
+[2014-07-13 01:01:29,557][INFO ][node                     ] [Madeline Joyce] starting ...
+[2014-07-13 01:01:29,747][INFO ][transport                ] [Madeline Joyce] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-13 01:01:32,803][INFO ][cluster.service          ] [Madeline Joyce] new_master [Madeline Joyce][DTHQXK0kTCqnIHXN0ELkQQ][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-13 01:01:32,846][INFO ][discovery                ] [Madeline Joyce] elasticsearch/DTHQXK0kTCqnIHXN0ELkQQ
+[2014-07-13 01:01:32,879][INFO ][http                     ] [Madeline Joyce] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-13 01:01:32,927][INFO ][gateway                  ] [Madeline Joyce] recovered [0] indices into cluster_state
+[2014-07-13 01:01:32,928][INFO ][node                     ] [Madeline Joyce] started
+[2014-07-13 01:22:25,026][INFO ][node                     ] [Madeline Joyce] stopping ...
+[2014-07-13 01:22:25,069][INFO ][node                     ] [Madeline Joyce] stopped
+[2014-07-13 01:22:25,069][INFO ][node                     ] [Madeline Joyce] closing ...
+[2014-07-13 01:22:25,079][INFO ][node                     ] [Madeline Joyce] closed
+[2014-07-13 01:22:27,406][INFO ][node                     ] [Dmitri Bukharin] version[1.2.2], pid[5316], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-13 01:22:27,406][INFO ][node                     ] [Dmitri Bukharin] initializing ...
+[2014-07-13 01:22:27,412][INFO ][plugins                  ] [Dmitri Bukharin] loaded [], sites []
+[2014-07-13 01:22:30,783][INFO ][node                     ] [Dmitri Bukharin] initialized
+[2014-07-13 01:22:30,783][INFO ][node                     ] [Dmitri Bukharin] starting ...
+[2014-07-13 01:22:30,974][INFO ][transport                ] [Dmitri Bukharin] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-13 01:22:34,033][INFO ][cluster.service          ] [Dmitri Bukharin] new_master [Dmitri Bukharin][WIN7SpypQEe_D3G2R5Cu0Q][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-13 01:22:34,077][INFO ][discovery                ] [Dmitri Bukharin] elasticsearch/WIN7SpypQEe_D3G2R5Cu0Q
+[2014-07-13 01:22:34,112][INFO ][http                     ] [Dmitri Bukharin] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-13 01:22:34,151][INFO ][gateway                  ] [Dmitri Bukharin] recovered [0] indices into cluster_state
+[2014-07-13 01:22:34,152][INFO ][node                     ] [Dmitri Bukharin] started
+[2014-07-13 02:50:58,612][INFO ][node                     ] [Dmitri Bukharin] stopping ...
+[2014-07-13 02:50:58,651][INFO ][node                     ] [Dmitri Bukharin] stopped
+[2014-07-13 02:50:58,651][INFO ][node                     ] [Dmitri Bukharin] closing ...
+[2014-07-13 02:50:58,658][INFO ][node                     ] [Dmitri Bukharin] closed
+[2014-07-13 19:40:02,164][INFO ][node                     ] [Lifeguard] version[1.2.2], pid[3935], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-13 19:40:02,170][INFO ][node                     ] [Lifeguard] initializing ...
+[2014-07-13 19:40:02,177][INFO ][plugins                  ] [Lifeguard] loaded [], sites []
+[2014-07-13 19:40:06,949][INFO ][node                     ] [Lifeguard] initialized
+[2014-07-13 19:40:06,950][INFO ][node                     ] [Lifeguard] starting ...
+[2014-07-13 19:40:07,214][INFO ][transport                ] [Lifeguard] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-13 19:40:10,300][INFO ][cluster.service          ] [Lifeguard] new_master [Lifeguard][0gtbaJ3eSOGqOEXIhWlCZw][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-13 19:40:10,346][INFO ][discovery                ] [Lifeguard] elasticsearch/0gtbaJ3eSOGqOEXIhWlCZw
+[2014-07-13 19:40:10,385][INFO ][http                     ] [Lifeguard] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-13 19:40:10,433][INFO ][gateway                  ] [Lifeguard] recovered [0] indices into cluster_state
+[2014-07-13 19:40:10,434][INFO ][node                     ] [Lifeguard] started
+[2014-07-13 21:03:01,935][INFO ][cluster.metadata         ] [Lifeguard] [search] creating index, cause [api], shards [5]/[1], mappings []
+[2014-07-13 21:03:02,724][INFO ][cluster.metadata         ] [Lifeguard] [search] create_mapping [modelresult]
+[2014-07-13 21:03:02,832][DEBUG][action.search.type       ] [Lifeguard] All shards failed for phase: [query]
+[2014-07-13 21:03:02,845][DEBUG][action.search.type       ] [Lifeguard] All shards failed for phase: [query]
+[2014-07-13 21:05:10,930][INFO ][cluster.metadata         ] [Lifeguard] [search] deleting index
+[2014-07-13 21:06:07,546][INFO ][cluster.metadata         ] [Lifeguard] [search] creating index, cause [auto(bulk api)], shards [5]/[1], mappings []
+[2014-07-13 21:06:08,099][INFO ][cluster.metadata         ] [Lifeguard] [search] update_mapping [modelresult] (dynamic)
+[2014-07-13 21:06:31,775][INFO ][cluster.metadata         ] [Lifeguard] [search] deleting index
+[2014-07-13 21:09:35,198][INFO ][cluster.metadata         ] [Lifeguard] [search] creating index, cause [api], shards [5]/[1], mappings []
+[2014-07-13 21:09:35,445][INFO ][cluster.metadata         ] [Lifeguard] [search] create_mapping [modelresult]
+[2014-07-13 21:09:35,765][INFO ][cluster.metadata         ] [Lifeguard] [search] update_mapping [modelresult] (dynamic)
+[2014-07-13 21:43:36,964][INFO ][cluster.metadata         ] [Lifeguard] [search] deleting index
+[2014-07-13 21:43:37,078][INFO ][cluster.metadata         ] [Lifeguard] [search] creating index, cause [api], shards [5]/[1], mappings []
+[2014-07-13 21:43:37,296][INFO ][cluster.metadata         ] [Lifeguard] [search] create_mapping [modelresult]
+[2014-07-13 21:43:37,682][INFO ][cluster.metadata         ] [Lifeguard] [search] update_mapping [modelresult] (dynamic)
+[2014-07-13 22:00:09,996][INFO ][cluster.metadata         ] [Lifeguard] [search] deleting index
+[2014-07-13 22:04:14,115][INFO ][cluster.metadata         ] [Lifeguard] [search] creating index, cause [api], shards [5]/[1], mappings []
+[2014-07-13 22:04:14,317][INFO ][cluster.metadata         ] [Lifeguard] [search] create_mapping [modelresult]
+[2014-07-13 22:04:14,685][INFO ][cluster.metadata         ] [Lifeguard] [search] update_mapping [modelresult] (dynamic)
+[2014-07-13 22:09:29,661][INFO ][node                     ] [Lifeguard] stopping ...
+[2014-07-13 22:09:29,715][INFO ][node                     ] [Lifeguard] stopped
+[2014-07-13 22:09:29,716][INFO ][node                     ] [Lifeguard] closing ...
+[2014-07-13 22:09:29,722][INFO ][node                     ] [Lifeguard] closed
