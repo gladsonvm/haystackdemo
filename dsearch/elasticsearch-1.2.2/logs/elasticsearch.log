@@ -9,3 +9,7 @@
 [2014-07-17 19:01:57,481][INFO ][http                     ] [Star Stalker] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
 [2014-07-17 19:01:58,732][INFO ][gateway                  ] [Star Stalker] recovered [1] indices into cluster_state
 [2014-07-17 19:01:58,937][INFO ][node                     ] [Star Stalker] started
+[2014-07-17 19:15:24,938][INFO ][node                     ] [Star Stalker] stopping ...
+[2014-07-17 19:15:25,006][INFO ][node                     ] [Star Stalker] stopped
+[2014-07-17 19:15:25,006][INFO ][node                     ] [Star Stalker] closing ...
+[2014-07-17 19:15:25,012][INFO ][node                     ] [Star Stalker] closed
