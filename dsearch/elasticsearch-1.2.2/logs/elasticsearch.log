@@ -1,15 +1,287 @@
-[2014-07-17 19:01:49,632][INFO ][node                     ] [Star Stalker] version[1.2.2], pid[3463], build[9902f08/2014-07-09T12:02:32Z]
-[2014-07-17 19:01:49,633][INFO ][node                     ] [Star Stalker] initializing ...
-[2014-07-17 19:01:49,639][INFO ][plugins                  ] [Star Stalker] loaded [], sites []
-[2014-07-17 19:01:54,110][INFO ][node                     ] [Star Stalker] initialized
-[2014-07-17 19:01:54,111][INFO ][node                     ] [Star Stalker] starting ...
-[2014-07-17 19:01:54,326][INFO ][transport                ] [Star Stalker] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
-[2014-07-17 19:01:57,388][INFO ][cluster.service          ] [Star Stalker] new_master [Star Stalker][t3r_N_UHTEeG3qbta5-szw][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
-[2014-07-17 19:01:57,434][INFO ][discovery                ] [Star Stalker] elasticsearch/t3r_N_UHTEeG3qbta5-szw
-[2014-07-17 19:01:57,481][INFO ][http                     ] [Star Stalker] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
-[2014-07-17 19:01:58,732][INFO ][gateway                  ] [Star Stalker] recovered [1] indices into cluster_state
-[2014-07-17 19:01:58,937][INFO ][node                     ] [Star Stalker] started
-[2014-07-17 19:15:24,938][INFO ][node                     ] [Star Stalker] stopping ...
-[2014-07-17 19:15:25,006][INFO ][node                     ] [Star Stalker] stopped
-[2014-07-17 19:15:25,006][INFO ][node                     ] [Star Stalker] closing ...
-[2014-07-17 19:15:25,012][INFO ][node                     ] [Star Stalker] closed
+[2014-07-20 10:38:10,846][INFO ][node                     ] [Cottonmouth] version[1.2.2], pid[3917], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-20 10:38:10,847][INFO ][node                     ] [Cottonmouth] initializing ...
+[2014-07-20 10:38:10,853][INFO ][plugins                  ] [Cottonmouth] loaded [], sites []
+[2014-07-20 10:38:15,560][INFO ][node                     ] [Cottonmouth] initialized
+[2014-07-20 10:38:15,561][INFO ][node                     ] [Cottonmouth] starting ...
+[2014-07-20 10:38:15,794][INFO ][transport                ] [Cottonmouth] bound_address {inet[/0:0:0:0:0:0:0:0:9301]}, publish_address {inet[/192.168.208.1:9301]}
+[2014-07-20 10:38:18,919][INFO ][cluster.service          ] [Cottonmouth] detected_master [Dementia][aJltbaGVTgycOvmBOYEE7g][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], added {[Dementia][aJltbaGVTgycOvmBOYEE7g][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]],}, reason: zen-disco-receive(from master [[Dementia][aJltbaGVTgycOvmBOYEE7g][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]]])
+[2014-07-20 10:38:19,031][INFO ][discovery                ] [Cottonmouth] elasticsearch/Dqy9Jw2EQy6t7YOcUKp0VQ
+[2014-07-20 10:38:19,043][INFO ][http                     ] [Cottonmouth] bound_address {inet[/0:0:0:0:0:0:0:0:9201]}, publish_address {inet[/192.168.208.1:9201]}
+[2014-07-20 10:38:19,046][INFO ][node                     ] [Cottonmouth] started
+[2014-07-20 10:39:13,565][INFO ][node                     ] [Cottonmouth] stopping ...
+[2014-07-20 10:39:13,673][INFO ][node                     ] [Cottonmouth] stopped
+[2014-07-20 10:39:13,673][INFO ][node                     ] [Cottonmouth] closing ...
+[2014-07-20 10:39:13,680][INFO ][node                     ] [Cottonmouth] closed
+[2014-07-20 10:41:46,186][INFO ][node                     ] [Fixx] version[1.2.2], pid[4267], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-20 10:41:46,187][INFO ][node                     ] [Fixx] initializing ...
+[2014-07-20 10:41:46,193][INFO ][plugins                  ] [Fixx] loaded [], sites []
+[2014-07-20 10:41:49,564][INFO ][node                     ] [Fixx] initialized
+[2014-07-20 10:41:49,564][INFO ][node                     ] [Fixx] starting ...
+[2014-07-20 10:41:49,770][INFO ][transport                ] [Fixx] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-20 10:41:52,817][INFO ][cluster.service          ] [Fixx] new_master [Fixx][99dD_xv5QWa1xBjISzuZhA][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-20 10:41:52,872][INFO ][discovery                ] [Fixx] elasticsearch/99dD_xv5QWa1xBjISzuZhA
+[2014-07-20 10:41:52,920][INFO ][http                     ] [Fixx] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-20 10:41:53,709][DEBUG][action.search.type       ] [Fixx] All shards failed for phase: [query]
+[2014-07-20 10:41:53,797][DEBUG][action.search.type       ] [Fixx] All shards failed for phase: [query]
+[2014-07-20 10:41:54,083][INFO ][gateway                  ] [Fixx] recovered [2] indices into cluster_state
+[2014-07-20 10:41:54,090][INFO ][node                     ] [Fixx] started
+[2014-07-20 10:42:08,438][WARN ][transport.netty          ] [Fixx] exception caught on transport layer [[id: 0x74d7ce2b, /127.0.0.1:57871 => /127.0.0.1:9300]], closing connection
+java.io.StreamCorruptedException: invalid internal transport message format
+	at org.elasticsearch.transport.netty.SizeHeaderFrameDecoder.decode(SizeHeaderFrameDecoder.java:46)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.callDecode(FrameDecoder.java:425)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.messageReceived(FrameDecoder.java:303)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+[2014-07-20 10:42:08,443][WARN ][transport.netty          ] [Fixx] exception caught on transport layer [[id: 0x74d7ce2b, /127.0.0.1:57871 :> /127.0.0.1:9300]], closing connection
+java.io.StreamCorruptedException: invalid internal transport message format
+	at org.elasticsearch.transport.netty.SizeHeaderFrameDecoder.decode(SizeHeaderFrameDecoder.java:46)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.callDecode(FrameDecoder.java:425)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.cleanup(FrameDecoder.java:482)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.channelDisconnected(FrameDecoder.java:365)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireChannelDisconnected(Channels.java:396)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.close(AbstractNioWorker.java:360)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioServerSocketPipelineSink.handleAcceptedSocket(NioServerSocketPipelineSink.java:81)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioServerSocketPipelineSink.eventSunk(NioServerSocketPipelineSink.java:36)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:574)
+	at org.elasticsearch.common.netty.channel.Channels.close(Channels.java:812)
+	at org.elasticsearch.common.netty.channel.AbstractChannel.close(AbstractChannel.java:197)
+	at org.elasticsearch.transport.netty.NettyTransport.exceptionCaught(NettyTransport.java:532)
+	at org.elasticsearch.transport.netty.MessageChannelHandler.exceptionCaught(MessageChannelHandler.java:229)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:112)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.exceptionCaught(FrameDecoder.java:377)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:112)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireExceptionCaught(Channels.java:525)
+	at org.elasticsearch.common.netty.channel.AbstractChannelSink.exceptionCaught(AbstractChannelSink.java:48)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.notifyHandlerException(DefaultChannelPipeline.java:658)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:566)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+[2014-07-20 10:42:24,251][WARN ][transport.netty          ] [Fixx] exception caught on transport layer [[id: 0xaa952955, /127.0.0.1:57872 => /127.0.0.1:9300]], closing connection
+java.io.StreamCorruptedException: invalid internal transport message format
+	at org.elasticsearch.transport.netty.SizeHeaderFrameDecoder.decode(SizeHeaderFrameDecoder.java:46)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.callDecode(FrameDecoder.java:425)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.messageReceived(FrameDecoder.java:303)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+[2014-07-20 10:42:24,253][WARN ][transport.netty          ] [Fixx] exception caught on transport layer [[id: 0xaa952955, /127.0.0.1:57872 :> /127.0.0.1:9300]], closing connection
+java.io.StreamCorruptedException: invalid internal transport message format
+	at org.elasticsearch.transport.netty.SizeHeaderFrameDecoder.decode(SizeHeaderFrameDecoder.java:46)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.callDecode(FrameDecoder.java:425)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.cleanup(FrameDecoder.java:482)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.channelDisconnected(FrameDecoder.java:365)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireChannelDisconnected(Channels.java:396)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.close(AbstractNioWorker.java:360)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioServerSocketPipelineSink.handleAcceptedSocket(NioServerSocketPipelineSink.java:81)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioServerSocketPipelineSink.eventSunk(NioServerSocketPipelineSink.java:36)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:574)
+	at org.elasticsearch.common.netty.channel.Channels.close(Channels.java:812)
+	at org.elasticsearch.common.netty.channel.AbstractChannel.close(AbstractChannel.java:197)
+	at org.elasticsearch.transport.netty.NettyTransport.exceptionCaught(NettyTransport.java:532)
+	at org.elasticsearch.transport.netty.MessageChannelHandler.exceptionCaught(MessageChannelHandler.java:229)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:112)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.exceptionCaught(FrameDecoder.java:377)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:112)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireExceptionCaught(Channels.java:525)
+	at org.elasticsearch.common.netty.channel.AbstractChannelSink.exceptionCaught(AbstractChannelSink.java:48)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.notifyHandlerException(DefaultChannelPipeline.java:658)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:566)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+[2014-07-20 10:42:48,447][INFO ][node                     ] [Fixx] stopping ...
+[2014-07-20 10:42:48,517][INFO ][node                     ] [Fixx] stopped
+[2014-07-20 10:42:48,517][INFO ][node                     ] [Fixx] closing ...
+[2014-07-20 10:42:48,523][INFO ][node                     ] [Fixx] closed
+[2014-07-20 10:42:53,797][INFO ][node                     ] [Gee] version[1.2.2], pid[4345], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-20 10:42:53,797][INFO ][node                     ] [Gee] initializing ...
+[2014-07-20 10:42:53,803][INFO ][plugins                  ] [Gee] loaded [], sites []
+[2014-07-20 10:42:57,154][INFO ][node                     ] [Gee] initialized
+[2014-07-20 10:42:57,154][INFO ][node                     ] [Gee] starting ...
+[2014-07-20 10:42:57,375][INFO ][transport                ] [Gee] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-20 10:43:00,440][INFO ][cluster.service          ] [Gee] new_master [Gee][ghMvaazvRlaq-5X0Kqcmbg][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-20 10:43:00,492][INFO ][discovery                ] [Gee] elasticsearch/ghMvaazvRlaq-5X0Kqcmbg
+[2014-07-20 10:43:00,527][INFO ][http                     ] [Gee] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-20 10:43:01,625][INFO ][gateway                  ] [Gee] recovered [2] indices into cluster_state
+[2014-07-20 10:43:02,131][INFO ][node                     ] [Gee] started
+[2014-07-20 10:43:10,512][WARN ][transport.netty          ] [Gee] exception caught on transport layer [[id: 0x408b11ef, /127.0.0.1:57886 => /127.0.0.1:9300]], closing connection
+java.io.StreamCorruptedException: invalid internal transport message format
+	at org.elasticsearch.transport.netty.SizeHeaderFrameDecoder.decode(SizeHeaderFrameDecoder.java:46)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.callDecode(FrameDecoder.java:425)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.messageReceived(FrameDecoder.java:303)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+[2014-07-20 10:43:10,517][WARN ][transport.netty          ] [Gee] exception caught on transport layer [[id: 0x408b11ef, /127.0.0.1:57886 :> /127.0.0.1:9300]], closing connection
+java.io.StreamCorruptedException: invalid internal transport message format
+	at org.elasticsearch.transport.netty.SizeHeaderFrameDecoder.decode(SizeHeaderFrameDecoder.java:46)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.callDecode(FrameDecoder.java:425)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.cleanup(FrameDecoder.java:482)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.channelDisconnected(FrameDecoder.java:365)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireChannelDisconnected(Channels.java:396)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.close(AbstractNioWorker.java:360)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioServerSocketPipelineSink.handleAcceptedSocket(NioServerSocketPipelineSink.java:81)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioServerSocketPipelineSink.eventSunk(NioServerSocketPipelineSink.java:36)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:574)
+	at org.elasticsearch.common.netty.channel.Channels.close(Channels.java:812)
+	at org.elasticsearch.common.netty.channel.AbstractChannel.close(AbstractChannel.java:197)
+	at org.elasticsearch.transport.netty.NettyTransport.exceptionCaught(NettyTransport.java:532)
+	at org.elasticsearch.transport.netty.MessageChannelHandler.exceptionCaught(MessageChannelHandler.java:229)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:112)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.handler.codec.frame.FrameDecoder.exceptionCaught(FrameDecoder.java:377)
+	at org.elasticsearch.common.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:112)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireExceptionCaught(Channels.java:525)
+	at org.elasticsearch.common.netty.channel.AbstractChannelSink.exceptionCaught(AbstractChannelSink.java:48)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.notifyHandlerException(DefaultChannelPipeline.java:658)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:566)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791)
+	at org.elasticsearch.common.netty.OpenChannelsHandler.handleUpstream(OpenChannelsHandler.java:74)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+	at org.elasticsearch.common.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+	at org.elasticsearch.common.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+	at org.elasticsearch.common.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+	at org.elasticsearch.common.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+	at org.elasticsearch.common.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.elasticsearch.common.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+[2014-07-20 10:43:22,324][INFO ][node                     ] [Gee] stopping ...
+[2014-07-20 10:43:22,409][INFO ][node                     ] [Gee] stopped
+[2014-07-20 10:43:22,409][INFO ][node                     ] [Gee] closing ...
+[2014-07-20 10:43:22,419][INFO ][node                     ] [Gee] closed
+[2014-07-20 10:46:20,238][INFO ][node                     ] [Radion the Atomic Man] version[1.2.2], pid[4595], build[9902f08/2014-07-09T12:02:32Z]
+[2014-07-20 10:46:20,238][INFO ][node                     ] [Radion the Atomic Man] initializing ...
+[2014-07-20 10:46:20,244][INFO ][plugins                  ] [Radion the Atomic Man] loaded [], sites []
+[2014-07-20 10:46:23,561][INFO ][node                     ] [Radion the Atomic Man] initialized
+[2014-07-20 10:46:23,561][INFO ][node                     ] [Radion the Atomic Man] starting ...
+[2014-07-20 10:46:23,749][INFO ][transport                ] [Radion the Atomic Man] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.208.1:9300]}
+[2014-07-20 10:46:26,805][INFO ][cluster.service          ] [Radion the Atomic Man] new_master [Radion the Atomic Man][5VPkOrBqTDmq2Fnf2v9BNw][gladson-HP-Pavilion-dv4-Notebook-PC][inet[/192.168.208.1:9300]], reason: zen-disco-join (elected_as_master)
+[2014-07-20 10:46:26,862][INFO ][discovery                ] [Radion the Atomic Man] elasticsearch/5VPkOrBqTDmq2Fnf2v9BNw
+[2014-07-20 10:46:26,890][INFO ][http                     ] [Radion the Atomic Man] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.208.1:9200]}
+[2014-07-20 10:46:27,982][INFO ][gateway                  ] [Radion the Atomic Man] recovered [2] indices into cluster_state
+[2014-07-20 10:46:27,983][INFO ][node                     ] [Radion the Atomic Man] started
+[2014-07-20 10:49:00,349][INFO ][cluster.metadata         ] [Radion the Atomic Man] [search] deleting index
+[2014-07-20 10:49:00,484][INFO ][cluster.metadata         ] [Radion the Atomic Man] [search] creating index, cause [api], shards [5]/[1], mappings []
+[2014-07-20 10:49:00,702][INFO ][cluster.metadata         ] [Radion the Atomic Man] [search] create_mapping [modelresult]
+[2014-07-20 10:49:01,025][INFO ][cluster.metadata         ] [Radion the Atomic Man] [search] update_mapping [modelresult] (dynamic)
+[2014-07-20 10:50:40,177][INFO ][node                     ] [Radion the Atomic Man] stopping ...
+[2014-07-20 10:50:40,403][INFO ][node                     ] [Radion the Atomic Man] stopped
+[2014-07-20 10:50:40,404][INFO ][node                     ] [Radion the Atomic Man] closing ...
+[2014-07-20 10:50:40,410][INFO ][node                     ] [Radion the Atomic Man] closed
